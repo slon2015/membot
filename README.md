@@ -1,7 +1,7 @@
 # membot
 <h1>VK membot</h1>
 <div>
-<h2 style="color:green;" >Текущие задачи:</h2>
+<h2>Текущие задачи:</h2>
 <ol>
  <li>Справочник</li>
  <li>Смешные картинки</li>
